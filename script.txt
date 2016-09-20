@@ -1,0 +1,34 @@
+luanet.load_assembly"System.Windows.Forms"
+luanet.load_assembly"System.Drawing"
+
+Form = luanet.import_type"System.Windows.Forms.Form"
+Btn = luanet.import_type"System.Windows.Forms.Button"
+Point = luanet.import_type"System.Drawing.Point"
+TxtBox = luanet.import_type "System.Windows.Forms.TextBox"
+Size = luanet.import_type "System.Drawing.Size"
+
+form = Form()
+btn = Btn()
+
+btn.Click:Add(function()
+   cout(agregar(nombre.text, edad.text))
+end)
+
+nombre = TxtBox()
+nombre.Size = Size(100,0)
+nombre.text = "Ingrese su nombre"
+nombre.Location = Point(25,65)
+form.Controls:Add(nombre)
+
+edad = TxtBox()
+edad.Size = Size(100,0)
+edad.text = "Ingrese su edad"
+edad.Location = Point(145,65)
+form.Controls:Add(edad)
+
+btn.Text = "Run"
+btn.Location=Point(95,120)
+
+form.Text = "Nombre mas edad"
+form.Controls:Add(btn)
+form:ShowDialog()

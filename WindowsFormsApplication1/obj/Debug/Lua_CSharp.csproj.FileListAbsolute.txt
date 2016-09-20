@@ -1,0 +1,18 @@
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lua_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\osgab\Documents\Compilador_C#_Lua\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lua_CSharp.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lua_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Usuario\Documents\11141188\LENGUAJES DE PROGAMACION\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lua_CSharp.csproj.GenerateResource.Cache
